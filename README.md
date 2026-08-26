@@ -130,9 +130,9 @@ The objective of these experiments was not to optimize the computational perform
 
 This repository contains the implementation and experimental work developed for the MSc thesis:
 
-**“Definition and Implementation of a Reference Architecture for Distributed Bioinformatics Workflow: Offloading to HPC Resources from Cloud”**
+**“Definition and Implementation of a Reference Architecture for Distributed Bioinformatics Workflow: Offloading to HPC Resources from The Cloud”**
 
-**MSc in Bioinformatics — University of Bologna, 2026**  
+**MSc in Bioinformatics — University of Bologna, 2026**
 Experimental work carried out at **INFN-CNAF, Bologna, Italy**.
 
 The thesis focused on the cloud-to-HPC integration layer of a broader project developed through two complementary MSc thesis activities. The Kubernetes-based cloud environment and the deployment of its core microservices were developed as part of the parallel thesis work, while this thesis focused on the design and implementation of the reference architecture for offloading scientific workloads from the cloud environment to remote Slurm-managed HPC resources.
